@@ -1,0 +1,21 @@
+GetNewQuoteIntent a Quote
+GetNewQuoteIntent a Einstein Quote
+GetNewQuoteIntent tell me a Quote
+GetNewQuoteIntent tell me a famous quote
+GetNewQuoteIntent give me some information
+GetNewQuoteIntent tell me something
+GetNewQuoteIntent give me something
+
+GetNextQuoteIntent yes
+GetNextQuoteIntent yup
+GetNextQuoteIntent sure
+GetNextQuoteIntent yes please
+
+AMAZON.YesIntent yes
+AMAZON.YesIntent yes please
+AMAZON.YesIntent sure
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
